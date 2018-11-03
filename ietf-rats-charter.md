@@ -57,10 +57,10 @@ The working group will develop standards supporting interoperable remote attesta
 
 4. Specify procedures, protocols, and corresponding claim semantics in support of verification services to validate or appraise claims via reference values within a remote attestation based on measured file execution procedures; supporting:
 
-* Explicit attestation wherein a set of verifiable claims is transported in the attestation, and
-* Implicit attestation wherein a set of claims is implied by possession of a secret.
+    * Explicit attestation wherein a set of verifiable claims is transported in the attestation, and
+    * Implicit attestation wherein a set of claims is implied by possession of a secret.
 
 5. Specify procedures and corresponding service graphs supporting the verification of claims or appraisal of evidence encapsulated in:
 
-* CBOR Web Token structures [RFC8392]
-* JSON Web Token structures [RFC7519]
+    * CBOR Web Token structures [RFC8392]
+    * JSON Web Token structures [RFC7519]
